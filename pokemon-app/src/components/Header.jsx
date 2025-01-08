@@ -13,7 +13,7 @@ const Header = (props) => {
       </i>
       </button>
       <h1 className='text-gradient' >
-        POKEY
+        POKEY-CITY
       </h1>
     </header>
     </>
